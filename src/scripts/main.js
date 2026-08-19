@@ -9,7 +9,7 @@ navButton.addEventListener("click", () => {
 
 // ----- CONFIG -----
 const geoApiKey = "d92430836eaa4bb4a6909d8e5f7d14f2";
-const newsApiKey = "3411b37a-4419-4f6e-80db-17bc2287951a";
+const newsApiKey = "ccbfac31-5ed1-48b6-a6c7-b40ea1681fbd";
 
 // ----- FETCH GEOLOCATION -----
 async function getLocation() {
